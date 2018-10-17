@@ -1,0 +1,11 @@
+C:\CC6\aspnet\other\MDI Application\bin\Debug\MDI Application.exe.config
+C:\CC6\aspnet\other\MDI Application\bin\Debug\MDI Application.exe
+C:\CC6\aspnet\other\MDI Application\bin\Debug\MDI Application.pdb
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI Application.csprojAssemblyReference.cache
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI_Application.ChildForm.resources
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI_Application.Form1.resources
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI_Application.Properties.Resources.resources
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI Application.csproj.GenerateResource.cache
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI Application.csproj.CoreCompileInputs.cache
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI Application.exe
+C:\CC6\aspnet\other\MDI Application\obj\Debug\MDI Application.pdb
